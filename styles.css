@@ -33,7 +33,7 @@ input {
 
 body {
     background-image: url(./img/back.png);
-    background-repeat: repeat-x;
+    background-repeat: repeat repeat;
 
 }
 
